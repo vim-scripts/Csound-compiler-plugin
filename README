@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2472
+
+This ftplugin will compile 2 csound files (orchestra file and scores file ) or csd file and plays compiled sound
+
+When compiling orc or sco file it does not matter which of them you try to compile, but files must have
+the same name and different extension
+
